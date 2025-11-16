@@ -18,5 +18,6 @@
 - I added a bit of animation to the main sprite, and I was going to animate the platforms to move.
 - But I faced a problem. In the tutorial, there are key symbols on the right side. I don't have that so I couldn't add stuff that's needed to continue.
 <img width="1903" height="1048" alt="image" src="https://github.com/user-attachments/assets/93263863-1994-4b10-8862-43cdad5f28b4" />
-In the end, I was only able to get to this part before I got confused with errors. I didn't have some features on my Godot editor so I'm asking my partner if she has the same problem or not.
+In the image, you can see that on the right side there aren't any key symbols.
+So in the end, I was only able to get to this part before I got confused with errors. I didn't have some features on my Godot editor so I'm asking my partner if she has the same problem or not.
 I'm going to continue to tinker, and also continue working on the practice game to practice making a game and practice coding.
