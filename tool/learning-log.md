@@ -4,6 +4,15 @@
 
 ## Project: **Informative Nature Simulation**
 
+- movement and collision detection. Using inuts like ``ui_up``,
+- And the ``Input.get_vector()`` function simplifies combining multiple directions.
+
+
+
+
+
+
+
 ---
 
 ### 11/16/25:
