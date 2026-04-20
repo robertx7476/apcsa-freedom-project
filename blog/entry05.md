@@ -33,8 +33,7 @@ My partner added some code for the future for when we add collectables to the ga
 #### Engineering Design Process
 We are at steps 5 & 6 for the EDP(Engineering design process), which is creating and testing. We did add code to our game and we also made some maps and use the tile blocks to edit and make things. We also made the camera follow the player sprite in Godot. For our beyond mvp, we want to add more features to this game. My partner did have some issues with putting the camera on the player and making it follow the sprite, but with a tutorial, we were able to do it. We do need more time and do a bit more collaboration and working together to help process this project. 
 
-#### Skill
-##### Communication
+#### Skill --> Communication
 During this project, we practiced the skill communication a lot, we wanted to do this together so we wanted to make some time and work together. When we called each other, we discussed on what we should do to make our project work, and we talked a lot and decided together on what we should do for the project, what background should we use, what sprites should we use and not use in the game, etc. Though it was a bit difficult to maintain us communicating throughout our break, because we both had days where we are busy and we didn't have time at the beginning or middle of the break to call and talk to each other.
 
 [Previous](entry04.md) | [Next](entry06.md)
